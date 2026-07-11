@@ -1,0 +1,3 @@
+Version 2.1 Build 11072026
+
+- Fixed info overlay to update correctly on weapon change (visual bug)
