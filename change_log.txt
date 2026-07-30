@@ -1,3 +1,52 @@
-Version 2.1 Build 11072026
+Version 2.2 Build 30072026
 
-- Fixed info overlay to update correctly on weapon change (visual bug)
+- Added new Launcher UI and scrapped console menu
+- Fixed keybinds the current mappable keys are: 
+Backspace
+Tab
+Enter
+Shift
+Ctrl
+Alt
+Esc
+Space
+PageUp
+PageDown
+End
+Home
+Left
+Up
+Right
+Down
+Insert
+Delete
+CapsLock
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+Numpad0
+Numpad1
+Numpad2
+Numpad3
+Numpad4
+Numpad5
+Numpad6
+Numpad7
+Numpad8
+Numpad9
+Multiply
+Add
+Subtract
+Decimal
+Divide
+
+- Added option to edit RPM and Mag sizes in the edit config section
